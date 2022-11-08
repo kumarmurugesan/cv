@@ -1,0 +1,25 @@
+body {
+  background-color: #EFFFFD;
+}
+
+h1 {
+  color: #42C2FF;
+}
+
+h3 {
+  color: #42C2FF;
+}
+
+strong {
+  color: #F473B9;
+}
+
+hr {
+  border: dotted grey;
+  border-width: 5px 0 0;
+  width: 50px;
+}
+
+.bullet {
+  color: #82CD47;
+}
